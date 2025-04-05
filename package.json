@@ -39,7 +39,7 @@
 		"html5-qrcode": "^2.3.8",
 		"jsonwebtoken": "^9.0.2",
 		"jsqr": "^1.4.0",
-		"lucide-svelte": "^0.475.0",
+		"lucide-svelte": "^0.482.0",
 		"mongodb": "^6.13.0",
 		"mongoose": "^8.10.0",
 		"node-xlsx": "^0.24.0",
